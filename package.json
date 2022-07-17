@@ -23,6 +23,11 @@
     "express": "^4.17.1",
     "idb": "^7.0.2",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "webpack-bundle-analyzer": "^4.5.0"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack": "^5.73.0"
   }
 }
